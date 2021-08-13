@@ -7,7 +7,7 @@ eror : error
 gaje : tidak jelas
 udh : sudah
 yg : yang
-ribettttt : ribet
+ribettttt : sulit
 tgl : tanggal
 bakal : akan
 woiiii : woi
@@ -17,7 +17,7 @@ gak : tidak
 pdahal : padahal
 sdh : sudah
 brg : barang
-udah :sudah
+udah sudah
 hr : hari
 sy : saya
 dtg : datang
@@ -38,7 +38,7 @@ suruh : perintah
 jelasss : jelas
 recomented : recommended
 ngehabisin : menghabiskan
-tpi : tapi
+tpi : tetapi
 aja : saja
 bikin : membuat
 baguss : bagus
@@ -70,9 +70,9 @@ orang2 : orang-orang
 kaget : terkejut
 x : kali
 lancar2 : lancar-lancar
-brngnya : barangnya
+brngnya : barang
 jg : juga
-sampenya : sampainya
+sampenya : sampai
 lumyan : lumayan
 cpt : cepat
 qo : kok
@@ -90,9 +90,8 @@ trus : lalu
 tiba2 : tiba-tiba
 org : orang
 jd : menjadi
-K
 kesellll : kesal
-wowwww : wow
+wowwww : wah
 maxasih : terima kasih
 masi : masih
 cuman : hanya
@@ -112,7 +111,7 @@ freongx : free ongkir
 ngiler : tertarik
 z : saja
 lagiii : lagi
-Dahlahhhhhhh : sudahlah
+Dahlahhhhhhh : sudah
 ksh : kasih
 krna : karena
 bru : baru
@@ -126,7 +125,7 @@ slalu : selalu
 malu-maluin : memalukan
 ambil : mengambil
 giliran : saat
-kemaruk : ingin mendapat banyak
+kemaruk : rakus
 kena : mendapatkan
 emang : memang
 wkwkkwk : tertawa
@@ -138,7 +137,7 @@ uda : sudah
 gitu : begitu
 yaa : ya
 nunda* : menunda
-barangny : barangnya
+barangny : barang
 ehh : eh
 blm : belum
 dikembaliin : dikembalikan
@@ -179,7 +178,7 @@ ia : iya
 nggu : menunggu
 mnggu : minggu
 qlo : kalau
-lelet : lama
+lelet : lambat
 bkin : membuat
 2x : dua kali
 banyakin : perbanyak
@@ -188,13 +187,13 @@ terimakasih : terima kasih
 soalnya : karena
 dwonload : download
 dianter : diantar
-akunyaa :aku nya
+akunyaa : saya
 yah : ya
 sering : selalu
 sukak : suka
 rata2 : rata-rata
 bangetttt : sekali
-itungannya : hitungannya
+itungannya : hitungan
 baikk : baik
 bangett : sekali
 j&t : jnt
@@ -209,7 +208,7 @@ kabar : info
 tiba" : tiba-tiba
 eeh : eh
 gapapa : tidak apa apa
-dululah : dahulu lah
+dululah : dahulu
 ketok : mengetuk
 embah : lansia
 olshop : online shop
@@ -254,7 +253,7 @@ guna : berguna
 bgtttt : sekali
 kek : seperti
 dateng2 : datang-datang
-insyaAlloh : insyaAllah
+insyaAlloh : insyaallah
 kayanya : sepertinya
 baik" : baik-baik
 nyari : cari
@@ -263,7 +262,7 @@ aman2 : aman-aman
 kaget : terkejut
 e : nya
 krn : karena
-apknya : aplikasinya
+apknya : aplikasi
 rb : ribu
 smp : sampai
 berkali" : berkali-kali
@@ -301,7 +300,7 @@ byeeee : bye
 blj : belanja
 pke : pakai
 voc : voucher
-emgnya : memangnya
+emgnya : memang
 hati2 : hati-hati
 mikir : pikir
 responnnnnn : respon
@@ -310,7 +309,7 @@ trf : transfer
 woy : woi
 ati : hati
 elu : anda
-ikut²an : ikut-ikutan
+ikut²an : mengikuti
 donlot : download
 dahlah : sudahlah
 dibalikin : dikembalikan
@@ -321,7 +320,7 @@ balikinya : dikembalikannya
 sma : dengan
 stlah : setelah
 berbelit2 : berbelit-belit
-diserbu ; diserang
+diserbu : diserang
 ngadain : mengadakan
 burukkk : buruk
 ttep : tetap
@@ -335,7 +334,7 @@ dibalas2 : dibalas-balas
 gatau : tidak tahu
 malez : malas
 riview : review
-lamaaa : lama
+lamaaa : lambat
 bagusssss : bagus
 de : the
 ad : ada
@@ -352,12 +351,12 @@ galagi : tidak lagi
 walupun : walaupun
 ny : nya
 imel : email
-paswordnya : passwordnya
-aplinya : aplikasinya
+paswordnya : password
+aplinya : aplikasi
 instal : install
-petbaikin : perbaikin
+petbaikin : perbaiki
 gtu : begitu
-nginstal : menginstal
+nginstal : menginstall
 apli : aplikasi
 trims : terima kasih
 setekah : setelah
@@ -381,7 +380,7 @@ hehehehe : tertawa
 sukaaa : suka
 smoga : semoga
 socoo : sociola
-appnya : aplikasinya
+appnya : aplikasi
 lgi : lagi
 nglirik : melirik
 thanks : terima kasih
@@ -397,7 +396,7 @@ ngurusin : mengurus
 gausah : tidak perlu
 ngelawak : bercanda
 menhunakan : menggunakan
-segitunya : begitunya
+segitunya : seperti itu
 min : minimal
 enggan : tidak ingin
 nyaaaaa : nya
@@ -467,16 +466,16 @@ hadeuhh : kecewa
 byk : banyak
 spt : seperti
 makasih : terima kasih
-nunggunya : menunggunya
+nunggunya : menunggu
 lwat : lewat
 banyakkk : banyak
 ckba : coba
 krim : kirim
-blsannya : balasannya
+blsannya : balasan
 mlah : malah
 nutup : tutup
 gituuu : seperti itu
-applikasinya : aplikasinya
+applikasinya : aplikasi
 berkali2 : berkali-kali
 knp : mengapa
 kenapa : mengapa
@@ -520,11 +519,11 @@ gbs : tidak bisa
 prdukk : produk
 da : dan
 gapake : tidak pakai
-appsnya : aplikasinya
+appsnya : aplikasi
 dn : dan
 hububgi : hubungi
 bgm : bagaimana
-mencancelny : mencancelnya
+mencancelny : mencancel
 persis : mirip
 sebelumny : sebelumnya
 tlh : telah
@@ -677,27 +676,27 @@ bnykn : perbanyak
 bolak : balik
 mala : malah
 blng : bilang
-ongkirnyaa : ongkos kirimnya
+ongkirnyaa : ongkos kirim
 jn : juga
 muncul : tampak
 awaaa : wah
 berulang2 : berulang-ulang
-lancaran : lebih lancar
-Berhenti² : sering berhenti
+lancaran : lancar
+Berhenti² : berhenti
 aplnya : aplikasinya
 uninnstall : uninstall
 bisaa : bisa
-bantuannyaa : bantuannya
+bantuannyaa : bantuan
 yeeey : yes
 sekrg : sekarang
 kasi : beri
 dibukak : dibuka
-soalanyaaa : sebabnya
+soalanyaaa : sebab
 kenapasi : mengapa
 astagaaa : astaga
 dongggg : dong
 nyebelin : menyebalkan
-erronya : errornya
+erronya : error
 huhuhu : kecewa
 nggk : tidak
 lagi : sedang
@@ -705,7 +704,7 @@ musti : harus
 ngenain : dapat
 muu : anda
 bat : sekali
-aplikasix : aplikasinya
+aplikasix : aplikasi
 wkwkekwk : tertawa
 dech : deh
 cucok : cocok
@@ -716,23 +715,23 @@ ajaa : saja
 diemail : di email
 ngisi : mengisi
 kesink : kesini
-lemottt : lama
+lemottt : lambat
 ngrsa : merasa
 brhasil : berhasil
 prbaiki : perbaiki
 byr : bayar
 eug : saya
-leletnya : lamanya
+leletnya : lambat
 sipuat : siput
 aje : saja
-barangx : barangnya
-sampaix : sampainya
+barangx : barang
+sampaix : sampai
 mamposs : mati
 des : desember
 agst : agustus
 hapuss : hapus
 maapkan : maafkan
-lalod : lama
+lalod : lambat
 ilang²an : hilang-hilangan
 yt : youtube
 slesai : selesai
@@ -801,7 +800,7 @@ bangettttttttttt : sekali
 pkai : pakai
 gooossssss : bagus
 aaaa : senang
-apliksinya : aplikasinya
+apliksinya : aplikasi
 ngelacak : melacak
 dmna : dimana
 kbarnya : kabarnya
@@ -825,7 +824,7 @@ penget : ingin
 pertamakali : pertama kali
 laperr : lapar
 lemooot : lama
-pekingx : packingnya
+pekingx : packing
 rapi : rapih
 trimakasih : terima kasih
 ss : screenshot
@@ -838,7 +837,7 @@ sndri : sendiri
 goood : good
 event2 : event-event
 lht : lihat
-perskin : per skin
+perskin : skin
 csre : care
 merk² : merek-merek
 joshhh : mantap
@@ -891,7 +890,7 @@ bangettt : sekali
 haduhh : kecewa
 kesell : kesal
 co : cash on delivery
-apkikasinya : aplikasinya
+apkikasinya : aplikasi
 sampek : sampai
 copot : lepas
 luvvv : love
@@ -902,7 +901,7 @@ masuk2 : masuk-masuk
 lemotttt : lama
 dehhh : deh
 nyampe2 : sampai-sampai
-wajarin :wajarkan
+wajarin : wajarkan
 baguuussss : bagus
 gregetan : kesal
 permbaruan : perbaruan
@@ -913,7 +912,7 @@ cumen : hanya
 tmbahin : tambahkan
 dmna2nya : dimana-mananya
 wadaaaw : wah
-leleeeet : lama
+leleeeet : lambat
 stiap : setiap
 gunain : gunakan
 sering2 : sering-sering
@@ -938,7 +937,7 @@ gemes : gemas
 layaaa : tolong ya
 muluu : terus
 memuarii : puas
-repot : susah
+repot : sulit
 gbisa : tidak bisa
 trosss : terus
 prlayanan : pelayanan
@@ -958,7 +957,7 @@ ngebantuuu : membantu
 kw : palsu
 terossss : terus
 up date : update
-aplikasinyaaa : aplikasinya
+aplikasinyaaa : aplikasi
 anjer : anjing
 iyaa : iya
 c : sih
@@ -1061,7 +1060,7 @@ fixes : fix
 a : nya
 dh : sudah
 srg2 : sering-sering
-bgtu : begitu
+bgtu : seperti itu
 n : dan
 passw : password
 pasw : password
@@ -1152,7 +1151,7 @@ lamban : lambat
 koq : kok
 hihi : tertawa
 mlm2 : malam-malam
-gitcu : begitu
+gitcu : seperti itu
 smg : semoga
 sttusnya : statusnya
 bbrpa : beberapa
@@ -1182,7 +1181,7 @@ sebelah : lainnya
 shoopee : shopee
 gaperlu : tidak perlu
 sipp : oke
-aplukasinya : aplikasinya
+aplukasinya : aplikasi
 gpp : tidak mengapa
 gampamg : mudah
 tay : kotoran
@@ -1190,7 +1189,7 @@ brmanfaat : bermanfaat
 ehehhehehehe : tertawa
 applikasi : aplikasi
 lemoott : lambat
-aslii : aslii
+aslii : asli
 dann : dan
 ribetnya : sulitnya
 beh : wah
@@ -1332,7 +1331,7 @@ disni : disini
 sndr : sendiri
 banyk : banyak
 yaaaa : ya
-aplikasiny : aplikasinya
+aplikasiny : aplikasi
 susaaaah : sulit
 aza : saja
 spertinya : sepertinya
@@ -1345,7 +1344,7 @@ semangattt : semangat
 kesaaal : kesal
 mw : ingin
 sis : kakak
-trua : trus
+trua : terus
 masukkin : masukkan
 lemott : lambat
 bgus : bagus
@@ -1409,3 +1408,64 @@ parahhhhhhhh : buruk
 ajaaaa : saja
 gassss : ambil
 cacattt : cacat
+seneng : senang
+sociolla : sociola
+semena2 : seenaknya
+sociila : sociola
+terus2an : terus-terusan
+keluar2 : keluar-keluar
+ngaco : error
+2hr : 2 hari
+3hr : 3 hari
+gimana : bagaimana
+25rb : 25ribu
+17k : 17ribu
+3x : 3 kali
+itu2 : itu-itu
+jelas2 : jelas-jelas
+error2 : error-error
+akhir2 : akhir-akhir
+250k : 250ribu
+2x : 2 kali
+tanya2 : tanya-tanya
+lama2 : lama-lama
+/ : atau
+mahalll : mahal
+member2 : member-member
+bisa2 : bisa-bisa
+ok² : oke-oke
+6x : 6 kali
+ganti2 : ganti-ganti
+nyuruh : perintah
+brng : barang
+lohhh : lho
+29th : 29 tahun
+kenapa² : kenapa-kenapa
+fine2 : fine-fine
+12rb : 12ribu
+dr2 : dari dua
+5x : 5 kali
+review2nya : review-reviewnya
+dahlahhhhhhh : sudahlah
+temen : teman
+insyaalloh : insyaallah
+takut2 : takut-takut
+untk : untuk
+250k : 250ribu
+gabisakan : tidak bisa
+kurangin : dikurang
+pesenanku : pesanan saya
+sap : sampai
+gemesh : gemas
+ngerivew : mereview
+ngilang : menghilang
+gituu : seperti itu
+mahall : mahal
+update2 : update-update
+trnsfer : transfer
+dklik : diklik
+brand2 : brand-brand
+supeer : super
+rempong : sulit
+apaansih : apaan sih
+sblum : sebelum
